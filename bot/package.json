@@ -1,0 +1,13 @@
+{
+  "name": "shonu-bot",
+  "version": "1.0.0",
+  "description": "Shonu X WhatsApp bot with Firebase support",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "firebase-admin": "^11.10.1"
+  }
+}
